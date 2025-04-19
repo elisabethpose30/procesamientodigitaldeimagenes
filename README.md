@@ -6,7 +6,8 @@ El objetivo de la materia es introducir los conceptos fundamentales del tratamie
 
 ## 🔍 Contenido
 
-- `01_exploracion_datos.ipynb`: Análisis exploratorio de datos iniciales.
+- `monedas.ipynb`: contiene ejercicios prácticos y explicaciones teóricas sobre los siguientes temas: Detección, segmentación y análisis de monedas en una imagen mediante técnicas de 
+   umbral y etiquetado. Se estudia cómo separar objetos del fondo y contar elementos similares usando OpenCV o funciones de procesamiento de imágenes en escala de grises.
 - `02_modelado.ipynb`: Aplicación de modelos de Machine Learning (Isolation Forest para detección de anomalías).
 - `03_visualizaciones.ipynb`: Visualizaciones interactivas con Matplotlib, Seaborn y/o Plotly.
 - `04_segmentacion_color.ipynb`: Segmentación de objetos por color en imágenes con OpenCV.
